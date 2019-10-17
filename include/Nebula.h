@@ -20,7 +20,7 @@
 #include "LogDB.h"
 #include "SystemDB.h"
 
-#include "NebulaTemplate.h"
+#include "OpenNebulaTemplate.h"
 
 #include "VirtualMachinePool.h"
 #include "VirtualNetworkPool.h"
